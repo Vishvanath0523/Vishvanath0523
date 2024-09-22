@@ -5,7 +5,10 @@ ________________________________________________________________________________
 
 I'm a Masters Data Sceince student with experience in C, Python, JAVA, CSS, programming languages and a passion for building tools that help monitor and improve system performance. I enjoy working on projects related to automation, data analysis, and visualization.
 
+
+
 ### 🔧 Skills & Tools
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 - **Languages**: Python , JavaScript, HTML, CSS
 
@@ -13,7 +16,9 @@ I'm a Masters Data Sceince student with experience in C, Python, JAVA, CSS, prog
 
 - **Libraries**: Matplotlib, NumPy, Pandas, Psutil
 
+
 ### 🖥️ Projects
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 1. **[CPU Monitoring and Visualization]**  
 - **A Python project that tracks and visualizes CPU usage over time, raising alarms when thresholds are exceeded**.
@@ -38,18 +43,25 @@ We used hardware devices such as Micro Controller, Sound recognition module, Buz
 Working Principle:
 The proposed system comprises two sections: The monitoring section and the Venture section, in the monitoring section, a sound recognition module is implemented to monitor certain areas of coverage. It senses the animal sound in that region continuously. If the animal is detected, then its presence information is transmitted to nearby other monitoring sections as well as to the venture section which is in the range of coverage via wireless sensor network (WSN) and also activates a buzzer alert. Fire sensors are used to monitor the occurrence of fire in forest regions. The venture section consists of a WSN that receives and transmits data. After receiving the information, the presence of the animal is intimated by producing voice output in a nearby connected Mobile phone.
 
+
 ##CERTIFICATION:
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 - •	‘Python Diploma Course’ by CSC (Computer Software College), in the institute, Oct’22.
 - •	“Industrial Automation” by Panimalar Engineering College on Laboratory, Apr’ 23.
 - •	‘Java bootcamp’ by 360 Ripples Solutions on Classroom training, Aug’23.
 - •	“Chip Level Testing & Debugging for All Mobile Devices” by NEW technology on Laboratory, Sept’23.
 
 
+
 ### 📊 GitHub Stats
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ![Vishvanath's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
+
+
 ### 📫 Connect with Me
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 - **LinkedIn**: [linkedin.com/in/your-profile](linkedin.com/in/vishvanath-madasamy-4564392b3)
 - **Email**: vishvanathmadasamyofficial@gmail.com
