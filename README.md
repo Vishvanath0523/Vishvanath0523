@@ -13,19 +13,19 @@ I'm a Masters Data Sceince student with experience in C, Python, JAVA, CSS, prog
 ### 🖥️ Projects
 
 1. **[CPU Monitoring and Visualization]**  
-   A Python project that tracks and visualizes CPU usage over time, raising alarms when thresholds are exceeded.
+   **A Python project that tracks and visualizes CPU usage over time, raising alarms when thresholds are exceeded**.
 
 2. **[Eye Detection Alarm System]** 
-   A Python-based project that triggers alarms based on eye detection time intervals.
+   **A Python-based project that triggers alarms based on eye detection time intervals.**
 
 3. **[Title: Smart Portable Device for Trekking People in the Forest]**.
-Duration: 1st Feb’24 – 12th Feb’24.
-Team Size: 4
-Summary: We designed and developed an automated surveillance system using wireless technology to detect and notify the presence of animals, enhancing monitoring and safety in various environments.
+**Duration: 1st Feb’24 – 12th Feb’24.**
+**Team Size: 4**
+**Summary: We designed and developed an automated surveillance system using wireless technology to detect and notify the presence of animals, enhancing monitoring and safety in various environments.**
 
 4. **Title: Smart Portable Device for Trekking People in the Forest]**.
-Duration: 1st Feb’24 – 12th Feb’24.
-Team Size: 4
+**Duration: 1st Feb’24 – 12th Feb’24.**
+**Team Size: 4**
 Summary: We designed and developed an automated surveillance system using wireless technology to detect and notify the presence of animals, enhancing monitoring and safety in various environments.
 
 Used Tools and Methods:
