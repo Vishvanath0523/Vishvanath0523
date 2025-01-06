@@ -3,7 +3,7 @@
 ### 🚀 About Me
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-"Hi there! 👋 I'm a Master's student in Data Science with a solid foundation in programming languages including C, Python, Java, and CSS. My passion lies in creating innovative tools that monitor and optimize system performance.
+"Hi there! 👋 I'm a Master's student in Data Science with a solid foundation in programming languages including C, Python, Java, HTML, JS, CSS. My passion lies in creating innovative tools that monitor and optimize system performance.
 
 I thrive on tackling challenges in automation, data analysis, and visualization, turning raw data into actionable insights. With hands-on experience in building solutions that bridge efficiency and creativity, I aim to make a meaningful impact through technology.
 
@@ -16,7 +16,7 @@ Let’s connect and collaborate on projects that push the boundaries of innovati
 ### 🔧 Skills & Tools
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-- **Languages**: Python , JavaScript, HTML, CSS
+- **Languages**: Python , HTML, JS, CSS
 
 - **Tools**: Git, Docker, VS Code, Linux, Bash
 
